@@ -64,3 +64,9 @@ body{
 	color:#fff;
 	font-size: 25px;
 }
+@media screen and (max-width: 640px){
+	.contanier:{
+		width:100%
+	}
+
+}
